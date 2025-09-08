@@ -9,6 +9,7 @@ The analysis combines historical trading data with sentiment indicators to uncov
 ```
 ├── csv_files/
 │   ├── fear_greed_index.csv
+│   ├── historical_data
 │   └── merged_data.csv
 ├── output/
 │   ├── README.md
