@@ -6,13 +6,18 @@ The analysis combines historical trading data with sentiment indicators to uncov
 ---
 
 ## 📂 Repository Structure
-
-├─ notebook_1.ipynb # Main Jupyter/Colab notebook with full analysis & EDA
-├─ trade_fgi_analysis.py # Script version of the analysis
-├─ /csv_files/ # Input datasets (e.g., trading history, FGI data)
-├─ /outputs/ # Processed datasets, plots, and summaries
-└─ README.md # Project overview
-
+```
+├── csv_files/
+│   ├── fear_greed_index.csv
+│   └── merged_data.csv
+├── output/
+│   ├── README.md
+│   ├── ds_Report.pdf
+│   └── notebook_1.ipynb
+├── notebook_1.ipynb              # Main Jupyter/Colab notebook with full analysis & EDA
+├── trade_fgi_analysis.py          # Script version of the analysis
+└── README.md                      # Project overview
+```
 
 ---
 
